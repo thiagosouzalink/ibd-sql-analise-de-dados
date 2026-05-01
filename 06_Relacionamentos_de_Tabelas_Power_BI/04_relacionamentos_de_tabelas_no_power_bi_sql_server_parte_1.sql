@@ -1,0 +1,1 @@
+-- Relacionamentos de tabelas no power bi - SQL server parte 1
