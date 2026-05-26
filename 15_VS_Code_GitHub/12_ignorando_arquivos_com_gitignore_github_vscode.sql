@@ -1,0 +1,1 @@
+-- Ignorando Arquivos com Gitignore GitHub - VsCode

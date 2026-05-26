@@ -1,0 +1,1 @@
+-- Sobre GitBash no VSCode
