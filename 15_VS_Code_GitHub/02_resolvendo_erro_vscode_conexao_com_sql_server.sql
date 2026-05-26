@@ -1,0 +1,1 @@
+-- Resolvendo erro VSCode conexão com SQL Server
