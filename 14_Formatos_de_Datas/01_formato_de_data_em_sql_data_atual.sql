@@ -1,0 +1,5 @@
+-- Formato de data em sql ( Data Atual)
+
+SELECT SYSDATETIME()
+SELECT SYSDATETIMEOFFSET()
+SELECT SYSUTCDATETIME()
